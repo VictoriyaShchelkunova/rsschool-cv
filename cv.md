@@ -18,6 +18,7 @@
 * _Redux_
 * _Git_
 * _webpack_
+* _nodeJS_
 
 ---
 
